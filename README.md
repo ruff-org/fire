@@ -1,11 +1,8 @@
 # fire
 Blazed Fire Core Library &amp; Docs
 
-## Versions
-- Fire/Javascript
-
 ## Frameworks
-- Angular
+- [Angular](https://github.com/blazed-space/fire-angular)
 - React
 - Inferno
 - Svelte
