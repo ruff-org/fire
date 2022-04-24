@@ -1,5 +1,11 @@
-/* Blazed Labs Custom Scrollbar */
-body::-webkit-scrollbar{width:10px}body::-webkit-scrollbar-track{background:#727a8a}
+/* Blazed Labs Styles */
+html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+} 
+
+body::-webkit-scrollbar{width:10px}
+body::-webkit-scrollbar-track{background:#727a8a}
 body::-webkit-scrollbar-thumb{background-color:#afb4bd;border-radius:20px;border:1px solid #5b626e}
 body::-webkit-scrollbar-thumb:hover{background-color:#5b626e}
 
@@ -14,8 +20,3 @@ EXAMPLE:
     color: #fff;
 }
 */
-
-body, blz-app{
-    display:block;
-    max-width: 100%;
-}

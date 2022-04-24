@@ -3,7 +3,7 @@ Blazed Fire Core Library &amp; Docs
 
 ## Frameworks
 - [Angular](https://github.com/blazed-space/fire-angular)
-- React
+- [React](https://github.com/blazed-space/fire-react)
 - Inferno
 - Svelte
 - Vue
